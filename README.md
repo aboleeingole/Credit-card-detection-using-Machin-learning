@@ -1,9 +1,3 @@
-# Credit-card-detection-using-Machin-learning
-
-Here's an updated version of the **README**, including the information about the Kaggle dataset:
-
----
-
 # Credit Card Fraud Detection using Machine Learning
 
 ## Overview
