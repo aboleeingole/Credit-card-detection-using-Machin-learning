@@ -69,6 +69,3 @@ The notebook utilizes the following Python libraries:
 
 This project demonstrates the application of machine learning models for detecting credit card fraud. By comparing various classifiers, we aim to identify the best approach for detecting fraudulent transactions with high accuracy and reliability.
 
----
-
-This README now references the Kaggle dataset and explains how to access and use it. Let me know if you'd like any further changes!
